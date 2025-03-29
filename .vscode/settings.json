@@ -1,0 +1,20 @@
+{
+    "cSpell.words": [
+        "decr",
+        "holded",
+        "Opti",
+        "xopti"
+    ],
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "10.0.1.19",
+            "port": 5436,
+            "driver": "PostgreSQL",
+            "name": "postgres-17",
+            "database": "xOpti",
+            "username": "marche",
+            "password": "mc@24949981"
+        }
+    ]
+}
